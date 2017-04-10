@@ -14,10 +14,6 @@ pipeline {
             echo 'hello'
             
           },
-          "cat processlist": {
-            sleep '1'
-            
-          }
         )
       }
     }
